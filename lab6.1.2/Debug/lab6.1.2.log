@@ -1,0 +1,4 @@
+﻿  lab6.1.2.cpp
+C:\Users\Yoda\source\repos\lab6.1.2\lab6.1.2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Yoda\source\repos\lab6.1.2\lab6.1.2.cpp(31): warning C4715: 'Sum': not all control paths return a value
+  lab6.1.2.vcxproj -> C:\Users\Yoda\source\repos\lab6.1.2\Debug\lab6.1.2.exe
